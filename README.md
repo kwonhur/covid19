@@ -1,1 +1,1 @@
-COVID19 Maryland Status App
+COVID19 Washington, DC metropolitan status map
